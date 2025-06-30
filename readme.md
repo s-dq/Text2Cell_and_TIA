@@ -4,7 +4,7 @@
 
 ##2运行生成数据集代码
 
-'''python data_to_imtsrtqa.py'''
+```python data_to_imtsrtqa.py```
 
 #模型训练
 
